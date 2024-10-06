@@ -1,8 +1,10 @@
-# React + Vite
+#Guide
+`npm create vite@latest` - to initialise a frontend with vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+`npm install web3` to install the web3 packages
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## Deployed contract
+https://sepolia.etherscan.io/address/0x949df173f7220b5ffde683c118adb53e1e27412a#code
